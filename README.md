@@ -5,6 +5,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/mims-harvard/PrimeKG)](https://github.com/mims-harvard/PrimeKG/stargazers)
 [![GitHub Repo forks](https://img.shields.io/github/forks/mims-harvard/PrimeKG)](https://github.com/mims-harvard/PrimeKG/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Dataverse](<https://img.shields.io/badge/Dataverse-10.7910/DVN/IXA7BM-red>)](https://doi.org/10.7910/DVN/IXA7BM)
 
 [**Lab Website**](https://zitniklab.hms.harvard.edu/projects/PrimeKG/) | [**Nature Publication**](https://www.nature.com/articles/s41597-023-01960-3) | [**Harvard Dataverse**](https://doi.org/10.7910/DVN/IXA7BM)
 
